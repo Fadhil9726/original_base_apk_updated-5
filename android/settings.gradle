@@ -1,0 +1,2 @@
+rootProject.name = "PhRt"
+include ':app'
